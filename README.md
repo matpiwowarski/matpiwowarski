@@ -1,10 +1,15 @@
 ### Hi, I'm Mateusz 👋:nerd_face:
+
+<img src="https://github.com/matpiwowarski/matpiwowarski/blob/master/png/header.png?raw=true">
 I'm a junior developer who loves to learn. Recently I'm improving my .NET knowledge and learning Swift language.
 I'm interested in NoSQL databases (document and graph are my favourites). I love taking part in hackathlones and creating something original, useful and sometimes funny.
 ## Find me around the web 🌎:
-- instagram: https://www.instagram.com/pentahombre/
-- twitter: https://twitter.com/pentahombre
-- facebook: https://www.facebook.com/matihombre
+:camera: <a href="https://www.instagram.com/pentahombre/">instagram</a>
+
+:bird: <a href="https://twitter.com/pentahombre">twitter</a>
+
+:speech_balloon: <a href="https://www.facebook.com/matihombre">facebook</a>
+
 <!--
 **matpiwowarski/matpiwowarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
