@@ -1,7 +1,7 @@
 # Hi, I'm Mateusz 👋:nerd_face:
 <img src="https://github.com/matpiwowarski/matpiwowarski/blob/master/png/header.png?raw=true">
 
-I'm a junior developer who loves to learn. Recently I'm improving my .NET knowledge and learning Swift language.
+I'm a junior developer who loves to learn. Recently I'm improving my .NET knowledge and learning Amazon Web Services.
 I'm interested in NoSQL databases (document and graph are my favourites). I love taking part in hackathlones and creating something original, useful and sometimes funny.
 ## Find me around the web 🌎:
 :camera: <a href="https://www.instagram.com/pentahombre/">instagram</a>
