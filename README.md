@@ -2,7 +2,7 @@
 <img src="https://github.com/matpiwowarski/matpiwowarski/blob/master/png/header.png?raw=true">
 
 I'm a junior developer who loves to learn. Recently I'm improving my .NET and React skills&knowledge.
-I'm interested in NoSQL databases (document and graph are my favourites). I love taking part in hackathons and creating something original, useful and sometimes funny.
+I love NoSQL databases (MongoDB :green_heart: Neo4j :blue_heart:). I love taking part in hackathons and creating something original, useful and sometimes funny.
 ## Find me around the web 🌎:
 :camera: <a href="https://www.instagram.com/pentahombre/">instagram</a>
 
