@@ -3,7 +3,7 @@
 
 I'm a developer who loves to learn. 
 
-I work at Euvic as a fullstack developer (mainly react/react-native + NodeJS).
+I work at Euvic as a fullstack developer (mainly React/React Native + NodeJS).
 
 I love NoSQL databases (MongoDB :green_heart: Neo4j :blue_heart:). 
 
