@@ -1,10 +1,9 @@
 # Hi, I'm Mateusz 👋:nerd_face:
 ![Profile views](https://gpvc.arturio.dev/matpiwowarski)
-<img src="https://github.com/matpiwowarski/matpiwowarski/blob/master/png/header.png?raw=true">
 
 I'm a developer who loves to learn. 
 
-Recently I'm improving my NodeJS skills&knowledge.
+I work at Euvic as a fullstack developer (mainly react/react-native + NodeJS).
 
 I love NoSQL databases (MongoDB :green_heart: Neo4j :blue_heart:). 
 
