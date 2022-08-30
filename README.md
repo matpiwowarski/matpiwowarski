@@ -1,29 +1,27 @@
 # Hi, I'm Mateusz 👋:nerd_face:
 ![Profile views](https://gpvc.arturio.dev/matpiwowarski)
 
-I'm a developer who loves to learn. 
+I love leading development teams, helping people grow and succeed.
 
-I work at Euvic as a fullstack developer (mainly React/React Native + NodeJS).
-
-I love NoSQL databases (MongoDB :green_heart: Neo4j :blue_heart:). 
+I work at Euvic as a technical team leader.
 
 I like taking part in hackathons and creating something original, useful and sometimes funny.
 
-## 🚀 Skills:
+## 🚀 Main Tech Skills:
 
-### Backend: 	
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 
-### Frontend/Mobile:
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### Databases:
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 
 ## 🌎 Find me around the web:
 :camera: <a href="https://www.instagram.com/pentahombre/">instagram</a>
-
-:bird: <a href="https://twitter.com/pentahombre">twitter</a>
 
 :speech_balloon: <a href="https://www.facebook.com/matihombre">facebook</a>
 
