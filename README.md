@@ -1,5 +1,4 @@
-# Hi, I'm Mateusz 👋:nerd_face:
-![Profile views](https://gpvc.arturio.dev/matpiwowarski)
+# Hi, I'm Mateusz 👋
 
 I love leading development teams, helping people grow and succeed.
 
