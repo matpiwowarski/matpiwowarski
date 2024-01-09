@@ -22,6 +22,8 @@ I like taking part in hackathons and creating something original, useful and som
 
 :speech_balloon: <a href="https://www.facebook.com/matihombre">facebook</a>
 
+✖️ <a href="https://www.facebook.com/matihombre](https://twitter.com/pentahombre">x</a>
+
 <!--
 **matpiwowarski/matpiwowarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
