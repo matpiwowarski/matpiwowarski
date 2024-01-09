@@ -2,8 +2,6 @@
 
 I love leading development teams, helping people grow and succeed.
 
-I work at Euvic as a technical team leader.
-
 I like taking part in hackathons and creating something original, useful and sometimes funny.
 
 ## 🚀 Main Tech Skills:
