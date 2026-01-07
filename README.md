@@ -17,12 +17,6 @@ I like taking part in hackathons and creating something original, useful and som
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 
-## 🌎 Find me around the web:
-:camera: <a href="https://www.instagram.com/pentahombre/">instagram</a>
-
-:speech_balloon: <a href="https://www.facebook.com/matihombre">facebook</a>
-
-✖️ <a href="https://www.facebook.com/matihombre](https://twitter.com/pentahombre">x</a>
 
 <!--
 **matpiwowarski/matpiwowarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
